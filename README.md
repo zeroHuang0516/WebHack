@@ -1,5 +1,6 @@
-# hw7-starter
+# Simple Chat Room
 
+##How to implement
 
 ## Install
 
