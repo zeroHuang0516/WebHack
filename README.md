@@ -1,11 +1,20 @@
-# WebHack
+# hw7-starter
 
-### 系級/姓名: 電機三 黃于瑄 
 
-### 題目: 聊天室
+## Install
 
-### 說明:
-希望能以作業七為基礎，做一個具簡單功能的聊天室(包含register, login, logout, chat, add expression sign...)
+```
+$ npm install
+```
 
-### 使用者介面(optional):
-希望能盡量以bootstrap實現
+## Start
+
+```
+$ npm run start
+```
+
+## Lint
+
+```
+$ npm run lint
+```
